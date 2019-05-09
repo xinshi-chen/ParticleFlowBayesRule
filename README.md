@@ -4,9 +4,7 @@ Pytorch implementatoon for:
 
 [Meta Particle Flow for Sequential Bayesian Inference](https://arxiv.org/abs/1902.00640) [1]
 
-Note:
-
-Our implementation is based on [ffjord](https://github.com/rtqichen/ffjord) [3].
+Note: Our implementation is based on [ffjord](https://github.com/rtqichen/ffjord) [3].
 
 # Install
 
