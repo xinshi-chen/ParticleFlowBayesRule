@@ -19,10 +19,10 @@ Pytorch implementatoon for:
 
 # Citation
 ```
-@inproceedings{chen2019meta,
+@article{chen2019meta,
   title={Meta Particle Flow for Sequential Bayesian Inference},
   author={Chen, Xinshi and Dai, Hanjun and Song, Le},
-  booktitle={International Conference on Machine Learning},
+  journal={arXiv preprint arXiv:1902.00640},
   year={2019}
 }
 ```
