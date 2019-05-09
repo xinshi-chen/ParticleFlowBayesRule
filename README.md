@@ -14,5 +14,5 @@ Code for Meta Particle Flow
 
   `pip install -e .`
 
-  This package has the dependency over [[torchdiffeq]](https://github.com/rtqichen/torchdiffeq), please install it first.
+  This package has the dependency over [torchdiffeq](https://github.com/rtqichen/torchdiffeq), please install it first.
  
