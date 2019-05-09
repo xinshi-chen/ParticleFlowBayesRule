@@ -13,6 +13,7 @@ Pytorch implementatoon for:
 
 # References
 [1] Xinshi Chen, Hanjun Dai, Le Song. "Meta particle flow for sequential bayesian inference." *In International Conference on Machine Learning.* 2019.
+
 [2] Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud. "Neural Ordinary Differential Equations." *Advances in Neural Processing Information Systems.* 2018.
 
 
