@@ -1,4 +1,4 @@
-# Meta Particle Flow
+# Particle Flow Bayes' Rule
 
 Pytorch implementation for:
 
