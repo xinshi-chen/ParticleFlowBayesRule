@@ -1,0 +1,9 @@
+*.egg-info/
+dropbox
+*.swp
+.nfs*
+.module_log
+__pycache__/
+*.pyc
+scratch/
+.ipynb_checkpoints/
