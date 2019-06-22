@@ -143,7 +143,17 @@ cd pfbayes/experiments/logistic_regression
 ./train_angle_meta.sh
 ```
 
-
+# Citation
+If you found this library useful in your research, please consider citing
+```
+@inproceedings{chen2019particle,
+  title={Particle Flow Bayes’ Rule},
+  author={Chen, Xinshi and Dai, Hanjun and Song, Le},
+  booktitle={International Conference on Machine Learning},
+  pages={1022--1031},
+  year={2019}
+}
+```
 
 # References
 [1] Xinshi Chen, Hanjun Dai, Le Song. "Particle Flow Bayes' Rule." *In International Conference on Machine Learning.* 2019.
